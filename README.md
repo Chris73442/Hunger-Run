@@ -68,7 +68,7 @@ The objective is to maintain hunger, avoid poop, and achieve the highest possibl
 # ⚙️ Module Design
 
 <p align="center">
-  <img src="./Documentation/module-design.png" width="90%">
+  <img src="./diagram/ModuleDesignHungerRun.drawio.png" width="90%">
 </p>
 
 ---
