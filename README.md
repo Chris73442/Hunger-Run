@@ -93,7 +93,7 @@ The objective is to maintain hunger, avoid poop, and achieve the highest possibl
 # 📁 Game Flow
 
 <p align="center">
-  <img src="./Documentation/game-flow.png" width="90%">
+  <img src="./diagram/GameFlow Hunger Run.drawio.png" width="90%">
 </p>
 
 ---
