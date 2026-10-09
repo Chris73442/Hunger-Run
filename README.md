@@ -1,7 +1,7 @@
 # 🍔 Hunger Run
 
 <p align="center">
-  <img src="../Assets/hunger-run.gif" width="100%">
+  <img src="./Assets/hunger-run.gif" width="100%">
 </p>
 
 ---
